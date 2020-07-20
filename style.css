@@ -1,0 +1,117 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+/* Herader */
+.header {
+  text-align: center;
+  background-color: #f4e3b2;
+  padding-top: 3px;
+  height: auto;
+}
+
+/* Navigation Bar */
+nav {
+  padding-bottom: 20px;
+  font-size: 20px;
+  padding-top: 10px;
+  height: auto;
+}
+
+/* Links Color Change */
+a:link {
+  color: #000a97;
+}
+a:hover {
+  color: #fc0800;
+}
+a:active {
+  color: #15b63d;
+}
+a:visited {
+  color: #0c9fb3;
+}
+
+/* Adolfo h1 header */
+.top-page-text {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 50px;
+  padding-top: 10px;
+  color: #2c666e;
+}
+
+/* Software Developer header */
+.top-page-text-second {
+  font-family: monospace;
+  font-size: 30px;
+  padding: 10px;
+}
+
+/* Image */
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 50px;
+  width: 50%;
+  border-radius: 20%;
+}
+
+/* All Text Between <main> </main> */
+main {
+  text-align: center left;
+  padding: 0 25%;
+  background-color: #f0edee;
+}
+
+/* All Section */
+.sections {
+  padding: 20px 0px 20px 0px;
+}
+
+/* All Headers Of The Paragraphs */
+.main-headers {
+  text-align: center;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 30px;
+  padding-bottom: 10px;
+}
+
+/* All Text between <p> </p> */
+p {
+  font-size: 20px;
+  padding: 5px;
+  word-spacing: 2px;
+  line-height: 35px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* All UL lists */
+ul {
+  font-size: 20px;
+  word-spacing: 2px;
+  line-height: 40px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  list-style-position: inside;
+  text-align: left;
+  text-indent: 50px;
+}
+
+/* All OL lists */
+ol {
+  font-size: 20px;
+  word-spacing: 2px;
+  line-height: 40px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  list-style-position: inside;
+  text-align: left;
+  text-indent: 50px;
+}
+
+/* The Footer Sextion */
+footer {
+  text-align: center;
+  padding: 0 25%;
+  background-color: #5e5e5e4d;
+}
